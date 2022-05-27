@@ -12,8 +12,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String a ="";
         int i=12;
-asfsdafasdf
-        sdfadfasdf
+sdafsdafasfasdfas
 
+        asdfasdfasdfasdf
+    sdf
     }
 }
